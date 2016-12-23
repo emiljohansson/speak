@@ -1,0 +1,22 @@
+{
+  "name": "speak",
+  "version": "0.0.0",
+  "description": "Have the computer speak out a string or pass it a command.",
+  "main": "index.js",
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "speak": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiljohansson/speak.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emiljohansson/speak/issues"
+  },
+  "homepage": "https://github.com/emiljohansson/speak#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
