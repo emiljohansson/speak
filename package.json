@@ -1,6 +1,6 @@
 {
   "name": "speak",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Have the computer speak out a string or pass it a command.",
   "main": "index.js",
   "author": "Emil Johansson <emiljohansson.se@gmail.com>",
